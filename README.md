@@ -1,0 +1,2 @@
+# emojilog
+Emojis for changelog
